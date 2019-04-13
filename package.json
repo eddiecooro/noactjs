@@ -16,7 +16,7 @@
     "url": "https://github.com/Eddie-CooRo/noactjs/issues"
   },
   "homepage": "https://github.com/Eddie-CooRo/noactjs#readme",
-  "dependencies": {
-    "react": "^16.8.6"
+  "peerDependencies": {
+    "react": "^16.0.0"
   }
 }
